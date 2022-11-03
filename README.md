@@ -1,2 +1,2 @@
 # hw7-2022
-homework7 for SI339
+Starter Code for HW7 - JavaScript basics with Video
